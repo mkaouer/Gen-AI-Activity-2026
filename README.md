@@ -216,3 +216,92 @@ After each task, Jules will create the changes on a new branch. Once you have co
 
 ---
 
+## Part 3: Publish Your Website with GitHub Pages
+
+Your website code is now ready! The final step is to publish it so anyone can view it online.
+
+### Step 3.1: Enable GitHub Pages
+
+1. Go to your repository on GitHub (e.g., `github.com/your-username/my-portfolio`)
+2. Click on the **Settings** tab (gear icon)
+3. In the left sidebar, scroll down and click on **Pages**
+4. Under "Build and deployment," find the **Source** section
+5. Select **Deploy from a branch**
+6. Under **Branch**, select `main` (or `master`) and `/ (root)`
+7. Click **Save**
+
+### Step 3.2: Wait for Deployment
+
+GitHub will now build and deploy your website. This usually takes 1-3 minutes. You can check the progress by:
+
+1. Going to the **Actions** tab in your repository
+2. Looking for a workflow run called "pages build and deployment"
+3. When it shows a green checkmark, your site is live!
+
+### Step 3.3: View Your Live Website
+
+Your website is now live at:
+
+```
+https://[your-github-username].github.io/[repository-name]/
+```
+
+For example, if your GitHub username is `jsmith` and your repository is called `my-portfolio`, your website URL would be:
+
+```
+https://jsmith.github.io/my-portfolio/
+```
+
+Open this URL in your browser to see your finished portfolio website!
+
+---
+
+## Troubleshooting Tips
+
+| Problem | Solution |
+|---------|----------|
+| Jules can't find my repository | Make sure you've connected your GitHub account and that the repository is public or Jules has access to it. |
+| Changes aren't showing on my website | It can take a few minutes for GitHub Pages to update. Try clearing your browser cache or waiting 5 minutes. |
+| The website looks broken | Make sure you only changed the content, not the HTML structure. You can always re-fork the original repository and start over. |
+| Gemini's content doesn't fit well | Feel free to edit the content Gemini generates to better match your voice and style. |
+
+---
+
+## Next Steps and Challenges
+
+Now that you have a basic portfolio website, here are some ways to make it even better:
+
+1. **Add a profile photo:** Replace the default avatar image with your own photo
+2. **Update the portfolio section:** Add screenshots of your actual projects
+3. **Customize the colors:** Ask Jules to help you change the color scheme
+4. **Add your social media links:** Update the social media icons to link to your profiles
+5. **Write a blog post:** Add content to the Blog section about a project you've worked on
+
+---
+
+## Conclusion
+
+Congratulations! You have successfully built and deployed your own personal portfolio website using cutting-edge AI tools. You've learned how to:
+
+- Use Google Gemini to generate professional content from your resume
+- Use Jules to make code changes without writing code yourself
+- Deploy a website using GitHub Pages
+
+This portfolio is now yours to maintain and improve. As you gain new skills and complete new projects, come back and update your website to reflect your growth. A strong portfolio is one of the best ways to stand out when applying for colleges, scholarships, internships, and jobs.
+
+Keep exploring, keep learning, and keep building!
+
+---
+
+## Resources
+
+| Resource | Link |
+|----------|------|
+| Google Gemini | [gemini.google.com](https://gemini.google.com) |
+| Jules Documentation | [jules.google/docs](https://jules.google/docs/) |
+| GitHub Pages Documentation | [docs.github.com/pages](https://docs.github.com/en/pages) |
+| vCard Portfolio Template | [github.com/codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) |
+
+---
+
+*Tutorial created for Tech Friday - Usage of Gen-AI for Building Your Own GitHub Personal Website*
