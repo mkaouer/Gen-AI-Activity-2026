@@ -133,3 +133,23 @@ Go back to the Jules tab. In the repository selector dropdown, find and select y
 ### Step 2.4: Customize Your Website with Jules
 
 Now comes the exciting part! You will give Jules instructions to update the website with your personal information. Use the following prompts, replacing the placeholder text in brackets with your actual information.
+
+**Task 1: Update Basic Information**
+
+Copy and paste this prompt into Jules, filling in your details:
+
+```
+Please update the index.html file with my personal information:
+
+1. Change the name "Richard hanrick" to "[YOUR FULL NAME]"
+2. Change the title "Web developer" to "[YOUR DESIRED TITLE, e.g., 'Student Developer' or 'Aspiring Engineer']"
+3. Change the email "richard@example.com" to "[YOUR EMAIL ADDRESS]"
+4. Change the phone number "+1 (213) 352-2795" to "[YOUR PHONE NUMBER or remove this section]"
+5. Change the birthday "June 23, 1982" to "[YOUR BIRTHDAY]"
+6. Change the location "Sacramento, California, USA" to "[YOUR CITY, STATE]"
+7. Update the page title from "vCard - Personal Portfolio" to "[YOUR NAME] - Portfolio"
+
+Make sure to update all instances where these values appear.
+```
+
+Click **Give me a plan**. Jules will analyze the code and show you what changes it plans to make. Review the plan, and if it looks correct, click **Approve** to let Jules make the changes.
