@@ -14,3 +14,16 @@ Welcome to Tech Friday! In this hands-on activity, you will create your very own
 
 This activity uses two cutting-edge AI tools from Google: **Google Gemini** for reasoning and content generation, and **Jules** for agentic programming. Together, these tools will help you transform your resume into a beautiful, functional website without writing a single line of code from scratch.
 
+---
+
+## Prerequisites
+
+Before you begin, make sure you have the following:
+
+| Requirement | Description |
+|-------------|-------------|
+| **Google Account** | You will need a Google account to access both Gemini and Jules. If you don't have one, you can create one for free at [accounts.google.com](https://accounts.google.com). |
+| **GitHub Account** | GitHub is where your website code will be stored and hosted. Create a free account at [github.com](https://github.com) if you don't already have one. |
+| **Your Resume** | Have a digital copy of your resume ready (PDF, Word document, or plain text). This will be the source material for your website content. |
+
+---
