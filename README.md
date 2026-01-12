@@ -113,3 +113,16 @@ Now that you have your content ready, it's time to use Jules to create your webs
 ### Step 2.1: Access Jules and Connect GitHub
 
 Open a new browser tab and go to [jules.google.com](https://jules.google.com). Sign in with your Google account. When prompted, click **Connect to GitHub account** and follow the authorization steps. This allows Jules to access and modify repositories on your behalf.
+
+### Step 2.2: Fork the Portfolio Template
+
+Before Jules can work on your website, you need to create your own copy (called a "fork") of the portfolio template. You can do this directly through GitHub:
+
+1. Open a new tab and go to [https://github.com/mkaouer/vcard-personal-portfolio](https://github.com/mkaouer/vcard-personal-portfolio)
+2. Click the **Fork** button in the top-right corner of the page
+3. On the "Create a new fork" page, you can rename the repository to something like `my-portfolio` or keep the default name
+4. Click **Create fork**
+5. Wait for GitHub to create your copy of the repository
+
+Now you have your own version of the portfolio template in your GitHub account!
+
