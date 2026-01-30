@@ -28,6 +28,29 @@ Before you begin, make sure you have the following:
 
 ---
 
+## Part 0: Create Your Resume
+
+```
+I am a high school student and I need you to generate a professional resume that I can easily copy and paste into Microsoft Word. Please use my details below to build it:
+Full Name: [Insert Name]
+Phone Number: [Insert Phone Number]
+Email Address: [Insert Email Address]
+Social Media/Links: [Insert LinkedIn, Portfolio, or Professional Social Media]
+My Goal: [e.g., I want a summer job at a cafe / I want to volunteer at a hospital]
+School Name: [Insert High School Name]
+Graduation Year: [Insert Year]
+GPA/Awards: [Insert GPA or any Honors if applicable]
+Activities/Experience: [List things like: Sports teams, Clubs, Church volunteering, Babysitting, or Yard work]
+Skills: [List things like: Computer skills, Languages, Math, or Great with people]
+Please format the response with these exact sections:
+Header: Name and Contact Info
+About Me Section: (A professional summary based on my goal)
+Skills Section: (Organized and easy to read)
+Education Section: (Including my school and achievements)
+Experience/Activities Section: (Use strong action verbs like 'Coordinated', 'Managed', or 'Assisted')
+Services/What I Do Section: (A list of specific tasks I can perform for an employer)
+```
+
 ## Part 1: Generate Your Website Content with Google Gemini
 
 In this first part, you will use Google Gemini to analyze your resume and generate professional content for your portfolio website. Gemini is an AI assistant that excels at understanding documents and creating high-quality written content.
