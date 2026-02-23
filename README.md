@@ -2,7 +2,7 @@
 
 **Theme:** Usage of Gen-AI for Building Your Own GitHub Personal Website
 
-**Duration:** 1 Hour (Engagement Hour)
+**Duration:** 1 Hour (Engagement Hour) / YOu can take longer to refien your website
 
 **Target Audience:** Undergraduate / Basic
 
